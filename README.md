@@ -6,7 +6,7 @@
 🌱 Learning by building **real-world projects**  
 🖧 **Currently working as a NOC Engineer**
 
----
+<!-- ---
 
 ## 🧑‍💻 About Me
 
@@ -19,7 +19,7 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 - 🔹 Focus on **clean, readable, and maintainable code**
 - 🔹 Interested in **automation and cybersecurity concepts**
 
----
+--- -->
 
 ## 🛠 Tech Stack
 
@@ -28,7 +28,7 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 **Database:** MySQL, PostgreSQL, HeidiSQL, Aiven
 **Tools:** Git, GitHub, Linux, VS Code, Network Monitoring Tools (NOC environment)
  
----
+<!-- ---
 
 ## 📌 Featured Projects
 
@@ -57,7 +57,7 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 
 👉 **Repo:** (add link)
 
----
+--- -->
 
 ## 📈 GitHub Activity
 
