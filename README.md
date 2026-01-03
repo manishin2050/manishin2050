@@ -71,6 +71,6 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 
 - 💼 **LinkedIn:** [Click Here](https://www.linkedin.com/in/ydv-manish-kumar-m-766230294/)  
 - 📧 **Email:** manishkumarmehta606@gmail.com  
-- 🌐 **Portfolio:** https://my-porfolio-tau-nine.vercel.app  
+- 🌐 **Portfolio:** [Click Here](https://my-porfolio-tau-nine.vercel.app)  
 
 ⭐ If you like my work, consider starring the repositories!
