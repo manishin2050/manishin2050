@@ -4,7 +4,7 @@
 💻 **Python | React | Node.js | SQL**  
 🔐 Interested in **Cybersecurity & Automation**  
 🌱 Learning by building **real-world projects**  
-🖧 **Currently working as a NOC Engineer**
+💼 **Currently working as a NOC Engineer**
 
 <!-- ---
 
@@ -24,7 +24,7 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 ## 🛠 Tech Stack
 
 - **Frontend:** React, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express, Python  
+- **Backend:**  Python, Node.js, PHP 
 - **Database:** MySQL, PostgreSQL, HeidiSQL, Aiven
 - **Tools:** Git, GitHub, Linux, VS Code, Network Monitoring Tools (NOC environment)
  
@@ -69,7 +69,7 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 
 ## 🤝 Let's Connect
 
-- 💼 **GitHub:** https://github.com/manishin2050  
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ydv-manish-kumar-m-766230294/)  
 - 📧 **Email:** manishkumarmehta606@gmail.com  
 - 🌐 **Portfolio:** https://my-porfolio-tau-nine.vercel.app  
 
