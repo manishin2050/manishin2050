@@ -23,10 +23,10 @@ I’m a backend-focused developer and **currently working as a NOC Engineer**, w
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, Python  
-**Database:** MySQL, PostgreSQL, HeidiSQL, Aiven
-**Tools:** Git, GitHub, Linux, VS Code, Network Monitoring Tools (NOC environment)
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express, Python  
+- **Database:** MySQL, PostgreSQL, HeidiSQL, Aiven
+- **Tools:** Git, GitHub, Linux, VS Code, Network Monitoring Tools (NOC environment)
  
 <!-- ---
 
