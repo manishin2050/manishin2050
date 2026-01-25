@@ -26,7 +26,7 @@
 
 - ✅ Consistent learning & code contributions
 - ✅ Project-based development
-- ✅ Clean and meaningful commit messages
+- ✅ Clean and meaningful commit messages..
 
 ---
 
